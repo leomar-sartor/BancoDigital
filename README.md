@@ -12,6 +12,25 @@ Posterirmente abra-o com o Visual Studio 2019, antes, precisamos ajustar as port
 
 ![Configuração Visual Studio](https://raw.githubusercontent.com/leomar-sartor/BancoDigital/master/Documentos/RodarLocalmenteVisualStudio.png)
 
+Detalhe. O Bando de Dados escolhido foi MySQL, portanto não esqueça de criar seu próprio banco e de trocar a Connetion String de acordo com a configuração de seu banco, localizado no arquivo de configuração 'appsettings.json' para rodar a API e as variáveis localizadas no caminho BancoDigital.Entidades/Contexto/Contexto.cs para a execução dos teste, conforme a seguir.
+
+~~~Json
+{
+  "ConnectionStrings": {
+    "ProductionConnection": "server=localhost;database=bancodigitaldatabase;uid=root;pwd=sua_senha;port=3306",
+    "HomologConnection": "server=localhost;database=bancohomologacao;uid=root;pwd=sua_senha;port=3306"
+  },
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft": "Warning",
+      "Microsoft.Hosting.Lifetime": "Information"
+    }
+  },
+  "AllowedHosts": "*"
+}
+~~~
+
 Prontinho, API rodando. Agora podemos testar com o PostMan, que pode ser encontrada em 'Documentação e Imagens Auxiliares' ou então integrar alguma aplicação de sua preferência.
 
 # Cenário da API
