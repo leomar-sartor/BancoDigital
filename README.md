@@ -30,11 +30,12 @@ saldo/numeroConta       | GET  | Verificar saldo na conta    |  200 (Saldo consu
 
 ## Url's
 
- Exemplo de Url Local                          |   
------------------------------------------------|
- http://localhost:3490/contacorrente/adicionar |
- http://localhost:3490/contacorrente/sacar     |
- http://localhost:3490/contacorrente/sacar     |
+ Exemplo de Url Local                                           |   
+----------------------------------------------------------------|
+ http://localhost:3490/contacorrente/adicionar                  |
+ http://localhost:3490/contacorrente/sacar                      |
+ http://localhost:3490/contacorrente/depositar                  |
+ http://localhost:3490/contacorrente/saldo?numeroConta=24.819-3 |
 
 # Ferramentas de Testes e Cobertura de Código
 
