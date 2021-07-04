@@ -2,6 +2,18 @@
 
 * GitHub: https://github.com/leomar-sartor/BancoDigital
 
+## Baixar, Configurar e Rodar API
+
+Primeiramente devemos ter o fonte em maõs, então baixe-o em uma pasta de sua preferência, conforme imagem a seguir.
+
+<https://raw.githubusercontent.com/leomar-sartor/BancoDigital/master/Documentos/DownloadFonte.png>
+
+Posterirmente abra-o com o Visual Studio 2019, antes, precisamos ajustar as portas de acessos do projeto, acessando a as propriedades da solução principal com o clique direito do mouse, conforme imagem abaixo.
+
+<https://raw.githubusercontent.com/leomar-sartor/BancoDigital/master/Documentos/RodarLocalmenteVisualStudio.png>
+
+Prontinho, API rodando. Agora podemos testar com o PostMan, que pode ser encontrada em 'Documentação e Imagens Auxiliares' ou então integrar alguma aplicação de sua preferência.
+
 # Cenário da API
 
 ## Considerações:
