@@ -3,8 +3,8 @@ namespace BancoDigital.Entidades.Contexto
 {
     public class Context : DbContext
     {
-        private string _connectionString = "server=localhost;database=bancodigitaldatabase;uid=root;pwd=Xilindr0;port=3306";
-        private string _connectionStringHomologacao = "server=localhost;database=bancohomologacao;uid=root;pwd=Xilindr0;port=3306";
+        private string _connectionString = "server=localhost;database=seu_banco;uid=root;pwd=sua_senha;port=3306";
+        private string _connectionStringHomologacao = "server=localhost;database=seu_banco_homologacao;uid=root;pwd=sua_senha;port=3306";
         
         public virtual DbSet<ContaDigital> Contas { get; set; }
         public virtual DbSet<Movimento> Movimentos { get; set; }
