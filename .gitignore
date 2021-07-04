@@ -1,0 +1,7 @@
+# Prerequisites
+BancoDigital/bin
+BancoDigital/obj
+.vs
+BancoDigital/Properties/
+appsettings.Development.json
+appsettings.json

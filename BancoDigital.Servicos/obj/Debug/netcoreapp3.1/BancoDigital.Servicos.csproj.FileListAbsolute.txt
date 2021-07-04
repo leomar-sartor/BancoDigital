@@ -1,0 +1,14 @@
+C:\Projetos\BancoDigital\BancoDigital.Servicos\bin\Debug\netcoreapp3.1\BancoDigital.Servicos.deps.json
+C:\Projetos\BancoDigital\BancoDigital.Servicos\bin\Debug\netcoreapp3.1\BancoDigital.Servicos.dll
+C:\Projetos\BancoDigital\BancoDigital.Servicos\bin\Debug\netcoreapp3.1\BancoDigital.Servicos.pdb
+C:\Projetos\BancoDigital\BancoDigital.Servicos\obj\Debug\netcoreapp3.1\BancoDigital.Servicos.AssemblyInfoInputs.cache
+C:\Projetos\BancoDigital\BancoDigital.Servicos\obj\Debug\netcoreapp3.1\BancoDigital.Servicos.AssemblyInfo.cs
+C:\Projetos\BancoDigital\BancoDigital.Servicos\obj\Debug\netcoreapp3.1\BancoDigital.Servicos.csproj.CoreCompileInputs.cache
+C:\Projetos\BancoDigital\BancoDigital.Servicos\obj\Debug\netcoreapp3.1\BancoDigital.Servicos.dll
+C:\Projetos\BancoDigital\BancoDigital.Servicos\obj\Debug\netcoreapp3.1\BancoDigital.Servicos.pdb
+C:\Projetos\BancoDigital\BancoDigital.Servicos\obj\Debug\netcoreapp3.1\BancoDigital.Servicos.csprojAssemblyReference.cache
+C:\Projetos\BancoDigital\BancoDigital.Servicos\bin\Debug\netcoreapp3.1\BancoDigital.Entidades.dll
+C:\Projetos\BancoDigital\BancoDigital.Servicos\bin\Debug\netcoreapp3.1\BancoDigital.Repositorio.dll
+C:\Projetos\BancoDigital\BancoDigital.Servicos\bin\Debug\netcoreapp3.1\BancoDigital.Entidades.pdb
+C:\Projetos\BancoDigital\BancoDigital.Servicos\bin\Debug\netcoreapp3.1\BancoDigital.Repositorio.pdb
+C:\Projetos\BancoDigital\BancoDigital.Servicos\obj\Debug\netcoreapp3.1\BancoDigital.Servicos.csproj.CopyComplete
