@@ -6,11 +6,11 @@
 
 Primeiramente devemos ter o fonte em maõs, então baixe-o em uma pasta de sua preferência, conforme imagem a seguir.
 
-<https://raw.githubusercontent.com/leomar-sartor/BancoDigital/master/Documentos/DownloadFonte.png>
+![Download Fonte](https://raw.githubusercontent.com/leomar-sartor/BancoDigital/master/Documentos/DownloadFonte.png)
 
 Posterirmente abra-o com o Visual Studio 2019, antes, precisamos ajustar as portas de acessos do projeto, acessando a as propriedades da solução principal com o clique direito do mouse, conforme imagem abaixo.
 
-<https://raw.githubusercontent.com/leomar-sartor/BancoDigital/master/Documentos/RodarLocalmenteVisualStudio.png>
+![Configuração Visual Studio](https://raw.githubusercontent.com/leomar-sartor/BancoDigital/master/Documentos/RodarLocalmenteVisualStudio.png)
 
 Prontinho, API rodando. Agora podemos testar com o PostMan, que pode ser encontrada em 'Documentação e Imagens Auxiliares' ou então integrar alguma aplicação de sua preferência.
 
@@ -25,7 +25,7 @@ Prontinho, API rodando. Agora podemos testar com o PostMan, que pode ser encontr
 
 ## Documentação e Imagens Auxiliares
 
-O projeto contém uma pasta 'Documentos' na pasta principal, a qual tem imagens que auxiliam e instruem como testar a API e como executar o procedimento de Cobertura de Código, divididos por cada etapa. Você pode acessa-lá clicando a seuir: <https://github.com/leomar-sartor/BancoDigital/tree/master/Documentos>.
+O projeto contém uma pasta 'Documentos' na pasta principal, a qual tem imagens que auxiliam e instruem como testar a API e como executar o procedimento de Cobertura de Código, divididos por cada etapa. Você pode acessa-lá clicando a seguir: <https://github.com/leomar-sartor/BancoDigital/tree/master/Documentos>.
 
 Você também pode visualizar o resultado final da Cobertura de Código realizando o download em <https://github.com/leomar-sartor/BancoDigital/tree/master/Documentos/5%20-%20Relat%C3%B3rio%20Cobertura%20de%20C%C3%B3digo/Relatorio(Abrir%20index.html)> e abrindo o arquivo index.html em seu Navegador. Deverá aparece algo como a imagem abaixo.
 
